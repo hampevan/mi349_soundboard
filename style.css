@@ -1,0 +1,19 @@
+html {
+    background: slateblue;
+}
+
+h1 {
+    font-size: 6em;
+    position: sticky;
+    text-align: center;
+}
+
+button {
+    border-color: springgreen;
+    border-width: 10px;
+    width: 450px;
+    height: 350px;
+    font-size: 90px;
+    margin-left: 300px; 
+    background-color: rgb(255, 155, 109);
+}
